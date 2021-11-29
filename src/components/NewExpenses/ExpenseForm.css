@@ -1,0 +1,38 @@
+.new-expense__controls{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    width: 100%
+}
+.new-expense__control {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 20px;
+    margin: 10px auto;
+    flex: 1;
+    justify-content: flex-start;
+}
+.new-expense__control input{
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    
+}
+.new-expense__actions {
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+.new-expense__actions button {
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+  
+}

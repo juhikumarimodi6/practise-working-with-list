@@ -1,2 +1,2 @@
-# practise-working-with-list
-practise working with list
+# react_states_and_events
+learning react state and events
